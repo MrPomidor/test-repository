@@ -1,0 +1,1 @@
+Test repository to illustrate different branch conflicts situations
